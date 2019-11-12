@@ -28,7 +28,9 @@ The workshop is from 10am to 4pm.  The schedule for the day is:
 * 330pm--4pm: R exercises.
 
 ## Materials
-Lectures will appear here: 
+Lectures will appear here:
+
 R Materials will appear here: (download to your local machine)
+
 Data will appear here: [data](https://github.com/ArthurSpirling/yale_text_course/tree/master/data) (download to your local  machine)
 
