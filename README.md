@@ -1,5 +1,5 @@
 # An Introduction to Analyzing Political Texts
-This repository has materials (code, data, slides) from my one day course at Yale University, on November 15, 2019. The course consists of a
+This repository has materials (code, data, slides) for my one day course at Yale University, on November 15, 2019. The course consists of a
 * lecture component
 * programming/applied component in [R](https://www.r-project.org/)
 
