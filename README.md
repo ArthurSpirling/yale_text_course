@@ -43,7 +43,7 @@ For the R exercises, you will need to install:
 * `topicmodels`
 * `ldatuning`
 
-There are no *required* readings, but the following may be helpful as we work through the lectures:
+There are no *required* readings, but the following may be helpful if you have further interest in the topics we cover:
 
 ### Overview and Preprocessing
 * Grimmer, Justin, and Brandon M. Stewart. "Text as data: The promise and pitfalls of automatic content analysis methods for political texts." Political analysis 21.3 (2013): 267-297.
