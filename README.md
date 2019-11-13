@@ -60,7 +60,7 @@ There are no *required* readings, but the following may be helpful as we work th
 ### Burstiness
 * Eggers, Andrew C., and Arthur Spirling. "The shadow cabinet in Westminster systems: modeling opposition agenda setting in the House of Commons, 1832–1915." British Journal of Political Science 48.2 (2018): 343-367.
 
-### Supervised Learning (WordScores)
+### Supervised Learning (Wordscores)
 * Laver, Michael, Kenneth Benoit, and John Garry. "Extracting policy positions from political texts using words as data." American political science review 97.2 (2003): 311-331.
 
 ### Unsupervised Learning (Topic Models)
