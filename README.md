@@ -1,6 +1,7 @@
 # An Introduction to Analyzing Political Texts
 
-|**Author Note: the materials should be ready to go now, but I would suggest waiting until just before class begins to download them to your local machine.**|
+|```diff
+**Author Note: the materials should be ready to go now, but I would suggest waiting until just before class begins to download them to your local machine.**```|
 | --- |
 
 This repository has materials (code, data, slides) for my one day course at Yale University, on November 15, 2019. The course consists of a
