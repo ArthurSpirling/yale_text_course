@@ -5,7 +5,7 @@
 ####  Part II
 
 # pathway is wherever you are holding your data for class
-pathway = "C:/Users/as9934/Dropbox/Yale_Text_Class/data/"
+pathway = "C:/Users/arthur spirling/Dropbox/Yale_Text_Class/data/"
 
 
 #################

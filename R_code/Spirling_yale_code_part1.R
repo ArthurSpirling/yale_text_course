@@ -6,7 +6,7 @@
 
 
 # pathway is wherever you are holding your data for class
-pathway = "C:/Users/as9934/Dropbox/Yale_Text_Class/data/"
+pathway = "C:/Users/arthur spirling/Dropbox/Yale_Text_Class/data/"
 
 
 #################
@@ -139,7 +139,7 @@ stopwords("german")
 ##### MAKING A VECTOR
 Lab1983_vector <- dfm(Lab_1983, stem=TRUE, remove=stopwords("english"), remove_punct=TRUE, remove_numbers=TRUE  )
 #can take a look at it in longform via (well, first 10 terms at least)
-as.matrix(Lab1983_vector, colnames=colnames(Lab1983_vector))[1, 1:10]
+as.matrix(Lab1983_vector)[1, 1:10]
 
 #alright, let's make a dfm of our whole collection
 DTM <- dfm(manifestos_corpus, stem=T, remove=stopwords("english"),
